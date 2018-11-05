@@ -11,6 +11,8 @@ The game uses a hand drawn car "playerCar.png".
 
 The file RaceTrack.java uses StdDraw.java which is made by Robert Sedgewick and Kevin Wayne. 
 
+This program was written for assignment 3 in Introduction to Programming (course 02102) on DTU.
+
 Additional features that could be implemented: 
 - Playing against a bot
 - Multiplayer 
